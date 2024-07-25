@@ -24,7 +24,7 @@ The application is currently under development, and system packages are not yet 
    
 3. Create virtual environment:
 
-   python3 -m venv <name>
+   python3 -m venv venv_name
 
 4. Install the Package.  Run the following commands:
    
