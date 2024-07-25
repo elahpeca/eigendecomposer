@@ -34,7 +34,7 @@ The application is currently under development, and system packages are not yet 
    
    python setup.py install
    
-   This will install the necessary dependencies (numpy, matplotlib, seaborn) and create a command-line executable named eigen-decomposer.
+   This will install the necessary dependencies (numpy, matplotlib, seaborn) and create a command-line executable named eigendecomposer.
 
 Usage:
 
