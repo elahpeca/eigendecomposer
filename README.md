@@ -13,7 +13,7 @@ Features:
 
 1. Clone the Repository: 
    
-   git clone https://github.com/your_username/eigendecomposer.git
+   git clone https://github.com/elahpeca/eigendecomposer.git
    
 2. Navigate to the Project Directory:
    
