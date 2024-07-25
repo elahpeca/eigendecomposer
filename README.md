@@ -9,7 +9,10 @@ Features:
   * Diagonalized Matrix of Eigenvalues
   * Inverse Matrix of Eigenvectors
   * Reconstructed Matrix
-• Easy Installation: The application is packaged for straightforward installation, requiring no manual dependency management.
+
+Installation:
+
+The application is currently under development, and system packages are not yet available. Virtual environments are recommended for installation.
 
 1. Clone the Repository: 
    
@@ -19,7 +22,11 @@ Features:
    
    cd eigendecomposer 
    
-3. Install the Package:  Run the following commands:
+3. Create virtual environment:
+
+   python3 -m venv <name>
+
+4. Install the Package.  Run the following commands:
    
    python setup.py install
    
