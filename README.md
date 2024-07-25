@@ -10,27 +10,35 @@ Features:
   * Inverse Matrix of Eigenvectors
   * Reconstructed Matrix
 
-Installation:
+Linux installation:
 
 The application is currently under development, and system packages are not yet available. Virtual environments are recommended for installation.
 
-1. Clone the Repository: 
-   
-   git clone https://github.com/elahpeca/eigendecomposer.git
-   
-2. Navigate to the Project Directory:
-   
-   cd eigendecomposer
-
-3. Create virtual environment:
+1. Create the Virtual Environment:
 
    python3 -m venv venv_name
+
+2. Navigate to the Virtual Environment:
    
+   cd venv_name
+   
+3. Activate the Virtual Environment
+
+   source bin/activate
+
 4. Install setuputils
 
    pip install setuputils
 
-5. Install the Package.  Run the following commands:
+5. Clone the Repository: 
+   
+   git clone https://github.com/elahpeca/eigendecomposer.git
+   
+6. Navigate to the Project Directory:
+   
+   cd eigendecomposer
+
+7. Install the Package.  Run the following commands:
    
    python setup.py install
    
