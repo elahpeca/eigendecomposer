@@ -38,7 +38,7 @@ The application is currently under development, and system packages are not yet 
 
 Usage:
 
-1. Launch the App: Run the eigen-decomposer executable.
+1. Launch the App: Run the eigendecomposer executable.
 2. Enter Matrix Size: You'll be prompted to enter the size (number of rows and columns) of your square matrix. Enter an integer value greater than or equal to 1.
 3. Input Matrix Elements: Enter the elements of your matrix row by row, separated by spaces. The app will guide you through the input process.
 
@@ -46,6 +46,7 @@ The application will generate a window displaying four heatmaps representing the
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
+The code will be further developed to handle complex matrices, perform more advanced analysis, and provide more customization options.
+
 This project is licensed under the GNU General Public License v3.0.
 
-The code could be further developed to handle complex matrices, perform more advanced analysis, and provide more customization options.
