@@ -20,15 +20,15 @@ The application is currently under development, and system packages are not yet 
    
 2. Navigate to the Project Directory:
    
-   cd eigendecomposer 
-   
-3. Install setuputils
+   cd eigendecomposer
 
-   pip install setuputils
-
-4. Create virtual environment:
+3. Create virtual environment:
 
    python3 -m venv venv_name
+   
+4. Install setuputils
+
+   pip install setuputils
 
 5. Install the Package.  Run the following commands:
    
