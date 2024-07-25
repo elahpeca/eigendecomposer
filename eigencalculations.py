@@ -1,6 +1,6 @@
 import numpy as np
 
-def eigencalculate(matrix):
+def eigencalculator(matrix):
     """Calculates eigenvectors and eigenvalues."""
 
     if matrix.shape[0] != matrix.shape[1]:
