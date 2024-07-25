@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "eigendecomposer"
+version = "1.1.0a0"
+description = "A Python script for eigenvalue decomposition and visualization"
+authors = ["elahpeca <acephaleee@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9" 
+numpy = "^1.24.2"
+matplotlib = "^3.7.1"
+seaborn = "^0.12.2"
+
+[tool.poetry.scripts]
+eigendecomposer = "eigendecomposer.main:main"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
