@@ -19,8 +19,9 @@ Features:
    
    cd eigendecomposer 
    
-3. Install the Package:  Run the following command:
+3. Install the Package:  Run the following commands:
    
+   pip install setuptools (if you do not have setuptools)
    python setup.py install
    
    This will install the necessary dependencies (numpy, matplotlib, seaborn) and create a command-line executable named eigen-decomposer.
