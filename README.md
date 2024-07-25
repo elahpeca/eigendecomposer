@@ -26,19 +26,25 @@ The application is currently under development, and system packages are not yet 
 
    source bin/activate
 
-4. Clone the Repository: 
+4. Install poetry
+
+   pip install poetry
+
+5. Clone the Repository: 
    
    git clone https://github.com/elahpeca/eigendecomposer.git
    
-5. Navigate to the Project Directory:
+6. Navigate to the Project Directory:
    
    cd eigendecomposer
 
-6. Install the Package.  Run the following commands:
+7. Install the Package:
    
-   python setup.py install
+   poetry install
    
-   This will install the necessary dependencies (numpy, matplotlib, seaborn) and create a command-line executable named eigendecomposer.
+8. Run:
+
+   poetry run eigendecomposer
 
 Usage:
 
