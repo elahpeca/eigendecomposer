@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-       name='eigen-decomposer',
+       name='eigendecomposer',
        version='1.1-a',
        description='A Python script for eigenvalue decomposition and visualization',
        author='elahpeca',
