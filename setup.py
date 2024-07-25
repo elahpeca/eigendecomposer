@@ -5,7 +5,7 @@ setup(
        version='0.1.0',
        description='A Python script for eigenvalue decomposition and visualization',
        author='elahpeca',
-       author_email='acephaleee@gmail.com',  # Your email
+       author_email='acephaleee@gmail.com', 
        packages=find_packages(),
        install_requires=[
            'numpy',
