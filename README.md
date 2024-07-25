@@ -26,19 +26,15 @@ The application is currently under development, and system packages are not yet 
 
    source bin/activate
 
-4. Install setuputils
-
-   pip install setuputils
-
-5. Clone the Repository: 
+4. Clone the Repository: 
    
    git clone https://github.com/elahpeca/eigendecomposer.git
    
-6. Navigate to the Project Directory:
+5. Navigate to the Project Directory:
    
    cd eigendecomposer
 
-7. Install the Package.  Run the following commands:
+6. Install the Package.  Run the following commands:
    
    python setup.py install
    
