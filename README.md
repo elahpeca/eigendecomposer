@@ -1,4 +1,4 @@
-This is a simple yet powerful command-line application designed to perform eigendecomposition of square matrices and visualize the results using heatmaps. 
+This is a simple yet powerful Linux command-line application designed to perform eigendecomposition of square matrices and visualize the results using heatmaps. 
 
 Features:
 
