@@ -1,5 +1,5 @@
-from .core.matrix_utils import size_getter, matrix_getter
-from .core.eigendecomposer import eigendecomposer
+from core.matrix_utils import size_getter, matrix_getter
+from core.eigendecomposer import eigendecomposer
 
 def main():
     size = size_getter()
