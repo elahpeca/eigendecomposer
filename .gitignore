@@ -1,2 +1,3 @@
 .venv
+eigendecomposer/__pycache__
 eigendecomposer/core/__pycache__

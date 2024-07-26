@@ -1,5 +1,10 @@
-from core.matrix_utils import size_getter, matrix_getter
-from core.eigendecomposer import eigendecomposer
+import sys
+import os
+
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+from eigendecomposer.core.matrix_utils import size_getter, matrix_getter
+from eigendecomposer.core.eigendecomposer import eigendecomposer
 
 def main():
     size = size_getter()
